@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "TP 1 - Felipe Flachsland",
+    "slug": "tp1-felipe-flachsland",
+    "version": "1.0.0",
+    "scheme": "tp1felipe",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "web": { "bundler": "metro" }
+  }
+}
