@@ -1,12 +1,1 @@
 node_modules/
-.expo/
-.vscode/
-dist/
-.tmp-tools/
-.verification/
-expo-go-qr.png
-*.zip
-*.tsbuildinfo
-.env
-.env.*
-.DS_Store
